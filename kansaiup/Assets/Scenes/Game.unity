@@ -121837,7 +121837,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1693122706}
   m_Layer: 0
-  m_Name: underground
+  m_Name: UnderGround
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -157937,7 +157937,7 @@ GameObject:
   m_Component:
   - component: {fileID: 543450651971793740}
   m_Layer: 0
-  m_Name: "\u30CF\u30C3\u30AB\u30BD\u30F3\u30B9\u30C6\u30FC\u30B8"
+  m_Name: Stage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -163284,9 +163284,9 @@ SceneRoots:
   - {fileID: 1419325099}
   - {fileID: 190690486}
   - {fileID: 543450651971793740}
+  - {fileID: 1693122706}
   - {fileID: 1494170304}
   - {fileID: 846383724}
-  - {fileID: 1693122706}
   - {fileID: 1171395947}
   - {fileID: 790784127}
   - {fileID: 1940842638}
